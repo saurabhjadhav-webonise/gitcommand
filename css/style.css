@@ -27,12 +27,3 @@ body{
     height: 100%;
     position: relative;
 }
-
-.topDiv{
-  height: 300px;
-  background-color: red;
-}
-.bottomDiv{
-  height: 300px;
-  background-color: yellow;
-}
